@@ -1,4 +1,4 @@
-> 26.2 patch/fix notes: after downloading, extract the .zip, enter the single folder inside and select all of it's contents. right click and re-compress to .zip and put this new .zip folder into your resourcepacks folder
+> ## 26.2 patch/fix notes: after downloading, extract the .zip, enter the single folder inside and select all of it's contents. right click and re-compress to .zip and put this new .zip folder into your resourcepacks folder
 
 ## Welcome to the Immersive Interfaces resource pack repository!
 
