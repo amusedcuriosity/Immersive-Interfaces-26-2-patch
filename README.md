@@ -1,3 +1,5 @@
+> 26.2 edit notes: after downloading, extract the .zip, enter the single folder inside and select all of it's contents. right click and re-compress to .zip and put this new .zip folder into your resourcepacks folder
+
 ## Welcome to the Immersive Interfaces resource pack repository!
 
 The Resource pack is available publicly in the websites below and only these are official, this repository is for managing and incase anyone wishes to test features. 
